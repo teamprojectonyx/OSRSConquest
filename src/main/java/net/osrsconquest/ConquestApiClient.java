@@ -1,13 +1,13 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import com.google.gson.Gson;
 import com.google.gson.JsonObject;
 import com.google.gson.reflect.TypeToken;
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.plugins.osrsconquest.model.ClanEvent;
-import net.runelite.client.plugins.osrsconquest.model.MemberInfo;
-import net.runelite.client.plugins.osrsconquest.model.RegisterResponse;
-import net.runelite.client.plugins.osrsconquest.model.StatSnapshot;
+import net.osrsconquest.model.ClanEvent;
+import net.osrsconquest.model.MemberInfo;
+import net.osrsconquest.model.RegisterResponse;
+import net.osrsconquest.model.StatSnapshot;
 import okhttp3.*;
 
 import javax.inject.Inject;

@@ -1,8 +1,8 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import com.google.inject.Provides;
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.plugins.osrsconquest.model.ClanEvent;
+import net.osrsconquest.model.ClanEvent;
 import net.runelite.api.ChatMessageType;
 import net.runelite.api.Client;
 import net.runelite.api.GameState;

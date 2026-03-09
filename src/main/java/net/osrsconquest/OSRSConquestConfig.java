@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;

@@ -1,6 +1,6 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
-import net.runelite.client.plugins.osrsconquest.model.ClanEvent;
+import net.osrsconquest.model.ClanEvent;
 import org.junit.Before;
 import org.junit.Test;
 

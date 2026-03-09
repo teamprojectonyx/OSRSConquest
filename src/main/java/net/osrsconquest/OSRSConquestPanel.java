@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import lombok.extern.slf4j.Slf4j;
 import net.runelite.client.util.LinkBrowser;

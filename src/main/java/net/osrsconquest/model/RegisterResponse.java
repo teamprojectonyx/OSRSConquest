@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.osrsconquest.model;
+package net.osrsconquest.model;
 
 import lombok.Data;
 

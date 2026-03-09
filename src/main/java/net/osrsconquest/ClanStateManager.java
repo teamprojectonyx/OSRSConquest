@@ -1,7 +1,7 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.plugins.osrsconquest.model.MemberInfo;
+import net.osrsconquest.model.MemberInfo;
 import net.runelite.api.Client;
 import net.runelite.api.clan.ClanChannel;
 import net.runelite.api.clan.ClanChannelMember;

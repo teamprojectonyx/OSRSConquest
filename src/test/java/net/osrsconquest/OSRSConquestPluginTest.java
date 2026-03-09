@@ -1,4 +1,4 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import net.runelite.client.RuneLite;
 import net.runelite.client.externalplugins.ExternalPluginManager;

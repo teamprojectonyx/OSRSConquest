@@ -1,7 +1,7 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.plugins.osrsconquest.model.ClanEvent;
+import net.osrsconquest.model.ClanEvent;
 
 import javax.inject.Singleton;
 import java.time.Instant;

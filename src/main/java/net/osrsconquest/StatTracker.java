@@ -1,7 +1,7 @@
-package net.runelite.client.plugins.osrsconquest;
+package net.osrsconquest;
 
 import lombok.extern.slf4j.Slf4j;
-import net.runelite.client.plugins.osrsconquest.model.StatSnapshot;
+import net.osrsconquest.model.StatSnapshot;
 import net.runelite.api.Client;
 import net.runelite.api.Skill;
 
